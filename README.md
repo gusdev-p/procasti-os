@@ -11,7 +11,7 @@ AOPI is a minimal and customizable package manager :)
 
 ## 📦 About
 
-AOPI (Axok!_OS Package Manager) is a lightweight package manager, made to be fast, easy and very customizable
+AOPI (Axok!_OS Package Installer) is a lightweight package manager, made to be fast, easy and very customizable
 
 ## ✨ Features
 
